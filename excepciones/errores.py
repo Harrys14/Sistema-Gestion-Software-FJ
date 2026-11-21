@@ -24,5 +24,5 @@ class ErrorCliente(ErrorSistema):
 
 
 class ServicioNoDisponible(ErrorServicio):
-    """Se genera cuando un servicio no está disponible."""
+    """Error cuando un servicio no está disponible."""
     pass
